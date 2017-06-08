@@ -12,6 +12,9 @@
 	<div class="loader"></div>
 	<center>
 		<h1>TEST</h1>
-		<img src="https://eco-esports.de/dl/test.jpg" alt="test pic">
+		<iframe src="https://eco-esports.de">
+  			<p>Your browser does not support iframes.</p>
+		</iframe>
+
 	</center>
 </body>
