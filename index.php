@@ -11,8 +11,7 @@
 <body>
 	<div class="loader"></div>
 	<center>
-		<h1>TEST</h1>
-		<iframe src="https://eco-esports.de">
+		<iframe width="100%" height="100%" src="https://eco-esports.de">
   			<p>Your browser does not support iframes.</p>
 		</iframe>
 
