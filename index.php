@@ -11,7 +11,7 @@
 <body>
 	<div class="loader"></div>
 	<center>
-		<iframe width="100%" height="100%" src="https://eco-esports.de">
+		<iframe width="100%" height="100%" src="http://steamcommunity.com/id/sGIoG">
   			<p>Your browser does not support iframes.</p>
 		</iframe>
 
