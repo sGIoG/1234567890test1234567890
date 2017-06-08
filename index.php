@@ -8,7 +8,7 @@
 	</script>
 </head>
 
-<body>
+<body style="margin:0;padding:0">
 	<div class="loader"></div>
 	<center>
 		<iframe width="100%" height="100%" src="http://steamcommunity.com/id/sGIoG">
