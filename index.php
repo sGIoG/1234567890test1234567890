@@ -10,5 +10,8 @@
 
 <body>
 	<div class="loader"></div>
-	<h1>TEST</h1>
+	<center>
+		<h1>TEST</h1>
+		<img src="https://eco-esports.de/dl/test.jpg" alt="test pic">
+	</center>
 </body>
